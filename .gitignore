@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Application temp files and processed resumes
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
